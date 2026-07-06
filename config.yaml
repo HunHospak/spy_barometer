@@ -1,0 +1,30 @@
+service: spy_barometer
+schema_version: "1.0"
+ttl_hours: 30
+
+benchmark: SPY
+vix_ticker: "^VIX"
+gold_ticker: GLD
+
+ma_window: 50       # SPY vs its 50-day moving average
+mom_window: 20      # SPY momentum window (trading days)
+
+# Breadth: % of these large caps trading above their own MA.
+breadth_basket:
+  [AAPL, MSFT, NVDA, AMZN, GOOGL, META, TSLA, AVGO, LLY, JPM, V, UNH, XOM, MA,
+   COST, HD, PG, NFLX, JNJ, WMT, BAC, KO, PEP, ADBE, CRM, CVX, MRK, ABBV, ORCL, CSCO]
+
+# Signal weights (relative). Each signal produces a score in [-1, +1] (risk-on positive).
+weights:
+  momentum: 1.0
+  ma_position: 1.0
+  vix_level: 1.5
+  vix_trend: 1.0
+  gold_trend: 0.7
+  breadth: 1.2
+
+# risk_on score (0-100) thresholds for the label.
+risk_on_at: 60
+risk_off_at: 40
+
+feed_url: "https://HunHospak.github.io/spy_barometer/spy_barometer.json"
