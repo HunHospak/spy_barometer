@@ -1,6 +1,6 @@
-Market barometer — 2026-07-13
-▲ Risk-on score: 61/100 (risk-on)
-  +0.47  VIX level
-  +0.99  Gold 20-day trend (inverse)
-  -0.68  VIX 5-day trend
+Market barometer — 2026-07-14
+▲ Risk-on score: 64/100 (risk-on)
+  +0.58  VIX level
+  +0.74  Gold 20-day trend (inverse)
+  +0.32  SPY 20-day momentum
 Conditions, not a forecast · not investment advice · arkenlabs.eu
