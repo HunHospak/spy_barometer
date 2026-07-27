@@ -1,6 +1,6 @@
-Market barometer — 2026-07-24
-• Risk-on score: 53/100 (neutral)
-  +0.24  VIX level
-  -0.14  SPY vs 50-day MA
-  +0.13  SPY 20-day momentum
+Market barometer — 2026-07-27
+• Risk-on score: 55/100 (neutral)
+  +0.22  VIX level
+  +0.28  SPY 20-day momentum
+  +0.22  Breadth (% above MA)
 Conditions, not a forecast · not investment advice · arkenlabs.eu
