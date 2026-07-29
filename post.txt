@@ -1,6 +1,6 @@
-Market barometer — 2026-07-28
-• Risk-on score: 57/100 (neutral)
-  +0.30  VIX level
+Market barometer — 2026-07-29
+▼ Risk-on score: 37/100 (risk-off)
+  -1.00  VIX 5-day trend
+  -0.46  SPY 20-day momentum
   +0.33  Breadth (% above MA)
-  +0.16  VIX 5-day trend
 Conditions, not a forecast · not investment advice · arkenlabs.eu
