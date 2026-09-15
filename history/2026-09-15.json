@@ -1,12 +1,12 @@
 {
   "service": "spy_barometer",
   "schema_version": "1.0",
-  "generated_at": "2026-09-11T23:34:00+00:00",
-  "status": "active",
+  "generated_at": "2026-09-15T00:01:03+00:00",
+  "status": "partial",
   "ttl_hours": 30,
   "data": {
-    "as_of": "2026-09-11",
-    "risk_on": 56,
+    "as_of": "2026-09-15",
+    "risk_on": 54,
     "label": "neutral",
     "signals": [
       {
@@ -26,15 +26,15 @@
       {
         "name": "vix_level",
         "label": "VIX level",
-        "value": 15.84000015258789,
-        "score": 0.69,
+        "value": null,
+        "score": null,
         "weight": 1.5
       },
       {
         "name": "vix_trend",
         "label": "VIX 5-day trend",
-        "value": 9.015832372275078,
-        "score": -0.6,
+        "value": null,
+        "score": null,
         "weight": 1.0
       },
       {
@@ -53,5 +53,6 @@
       }
     ],
     "disclaimer": "Market-conditions barometer, not a prediction and not investment advice."
-  }
+  },
+  "notes": "some signals missing"
 }
