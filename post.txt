@@ -1,6 +1,6 @@
-Market barometer — 2026-09-16
-• Risk-on score: 51/100 (neutral)
-  +0.38  VIX level
-  -0.51  VIX 5-day trend
-  -0.35  SPY 20-day momentum
+Market barometer — 2026-09-17
+▲ Risk-on score: 71/100 (risk-on)
+  +0.76  VIX level
+  +0.90  VIX 5-day trend
+  +0.75  Gold 20-day trend (inverse)
 Conditions, not a forecast · not investment advice · arkenlabs.eu
