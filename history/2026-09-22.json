@@ -1,40 +1,40 @@
 {
   "service": "spy_barometer",
   "schema_version": "1.0",
-  "generated_at": "2026-09-18T23:38:23+00:00",
+  "generated_at": "2026-09-22T00:18:45+00:00",
   "status": "active",
   "ttl_hours": 30,
   "data": {
-    "as_of": "2026-09-18",
-    "risk_on": 68,
+    "as_of": "2026-09-22",
+    "risk_on": 73,
     "label": "risk-on",
     "signals": [
       {
         "name": "momentum",
         "label": "SPY 20-day momentum",
-        "value": -0.11932509489422413,
-        "score": -0.02,
+        "value": 0.12869590529586056,
+        "score": 0.03,
         "weight": 1.0
       },
       {
         "name": "ma_position",
         "label": "SPY vs 50-day MA",
         "value": 761.6900024414062,
-        "score": 0.05,
+        "score": 0.1,
         "weight": 1.0
       },
       {
         "name": "vix_level",
         "label": "VIX level",
-        "value": 14.8100004196167,
+        "value": 14.869999885559082,
         "score": 0.86,
         "weight": 1.5
       },
       {
         "name": "vix_trend",
         "label": "VIX 5-day trend",
-        "value": -6.50252350409803,
-        "score": 0.43,
+        "value": -13.040938281657386,
+        "score": 0.87,
         "weight": 1.0
       },
       {
