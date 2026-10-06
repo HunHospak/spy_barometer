@@ -1,6 +1,6 @@
-Market barometer — 2026-10-03
-• Risk-on score: 53/100 (neutral)
-  +0.78  VIX level
-  -0.56  Breadth (% above MA)
-  -0.20  VIX 5-day trend
+Market barometer — 2026-10-06
+▲ Risk-on score: 68/100 (risk-on)
+  +0.75  VIX level
+  +1.00  Gold 20-day trend (inverse)
+  +0.31  SPY vs 50-day MA
 Conditions, not a forecast · not investment advice · arkenlabs.eu
