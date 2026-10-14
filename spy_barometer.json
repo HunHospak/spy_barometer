@@ -1,12 +1,12 @@
 {
   "service": "spy_barometer",
   "schema_version": "1.0",
-  "generated_at": "2026-10-13T02:44:16+00:00",
-  "status": "partial",
+  "generated_at": "2026-10-14T00:39:09+00:00",
+  "status": "active",
   "ttl_hours": 30,
   "data": {
-    "as_of": "2026-10-13",
-    "risk_on": 74,
+    "as_of": "2026-10-14",
+    "risk_on": 73,
     "label": "risk-on",
     "signals": [
       {
@@ -26,22 +26,22 @@
       {
         "name": "vix_level",
         "label": "VIX level",
-        "value": 15.210000038146973,
-        "score": 0.8,
+        "value": 15.270000457763672,
+        "score": 0.79,
         "weight": 1.5
       },
       {
         "name": "vix_trend",
         "label": "VIX 5-day trend",
-        "value": -1.997425325213993,
-        "score": 0.13,
+        "value": 1.7321800460838803,
+        "score": -0.12,
         "weight": 1.0
       },
       {
         "name": "gold_trend",
         "label": "Gold 20-day trend (inverse)",
-        "value": null,
-        "score": null,
+        "value": -2.721210299628334,
+        "score": 0.54,
         "weight": 0.7
       },
       {
@@ -53,6 +53,5 @@
       }
     ],
     "disclaimer": "Market-conditions barometer, not a prediction and not investment advice."
-  },
-  "notes": "some signals missing"
+  }
 }
