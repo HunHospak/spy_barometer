@@ -1,6 +1,6 @@
-Market barometer — 2026-11-06
-▼ Risk-on score: 35/100 (risk-off)
-  -1.00  VIX level
+Market barometer — 2026-11-07
+▼ Risk-on score: 14/100 (risk-off)
+  -0.94  VIX level
+  -1.00  SPY 20-day momentum
   -1.00  VIX 5-day trend
-  +0.56  Breadth (% above MA)
 Conditions, not a forecast · not investment advice · arkenlabs.eu
