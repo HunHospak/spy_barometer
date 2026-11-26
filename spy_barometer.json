@@ -1,46 +1,46 @@
 {
   "service": "spy_barometer",
   "schema_version": "1.0",
-  "generated_at": "2026-11-25T04:37:25+00:00",
+  "generated_at": "2026-11-26T03:48:08+00:00",
   "status": "active",
   "ttl_hours": 30,
   "data": {
-    "as_of": "2026-11-25",
-    "risk_on": 24,
+    "as_of": "2026-11-26",
+    "risk_on": 18,
     "label": "risk-off",
     "signals": [
       {
         "name": "momentum",
         "label": "SPY 20-day momentum",
-        "value": -6.610704158068737,
+        "value": -7.200474618657707,
         "score": -1.0,
         "weight": 1.0
       },
       {
         "name": "ma_position",
         "label": "SPY vs 50-day MA",
-        "value": 718.780029296875,
+        "value": 716.7000122070312,
         "score": -1.0,
         "weight": 1.0
       },
       {
         "name": "vix_level",
         "label": "VIX level",
-        "value": 26.360000610351562,
+        "value": 28.290000915527344,
         "score": -1.0,
         "weight": 1.5
       },
       {
         "name": "vix_trend",
         "label": "VIX 5-day trend",
-        "value": 3.5349629153278017,
-        "score": -0.24,
+        "value": 15.18730264940516,
+        "score": -1.0,
         "weight": 1.0
       },
       {
         "name": "gold_trend",
         "label": "Gold 20-day trend (inverse)",
-        "value": -12.579237865536902,
+        "value": -12.331663504144396,
         "score": 1.0,
         "weight": 0.7
       },
