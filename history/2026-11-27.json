@@ -1,12 +1,12 @@
 {
   "service": "spy_barometer",
   "schema_version": "1.0",
-  "generated_at": "2026-11-26T03:48:08+00:00",
+  "generated_at": "2026-11-27T03:49:28+00:00",
   "status": "active",
   "ttl_hours": 30,
   "data": {
-    "as_of": "2026-11-26",
-    "risk_on": 18,
+    "as_of": "2026-11-27",
+    "risk_on": 29,
     "label": "risk-off",
     "signals": [
       {
@@ -26,15 +26,15 @@
       {
         "name": "vix_level",
         "label": "VIX level",
-        "value": 28.290000915527344,
+        "value": 26.799999237060547,
         "score": -1.0,
         "weight": 1.5
       },
       {
         "name": "vix_trend",
         "label": "VIX 5-day trend",
-        "value": 15.18730264940516,
-        "score": -1.0,
+        "value": -5.766530471872276,
+        "score": 0.38,
         "weight": 1.0
       },
       {
